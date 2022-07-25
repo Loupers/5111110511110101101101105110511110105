@@ -1,0 +1,157 @@
+\documentclass{article}
+\usepackage{setspace}
+
+\makeatletter
+\newcount\my@repeat@count
+\newcommand{\myrepeat}[2]{%
+  \begingroup
+  \my@repeat@count=\z@
+  \@whilenum\my@repeat@count<#1\do{#2\advance\my@repeat@count\@ne}%
+  \endgroup
+}
+\makeatother
+
+\begin{document}
+
+
+\myrepeat{4}{
+	{\huge \noindent Kuchařka} \\
+	\begin{itemize}
+			%E
+	\item{Utopenec - 
+		špekáčky, 
+		cibule, 
+		voda,
+		ocet,
+		česnek,
+		sůl, 
+		pepř
+		}
+		%d
+	\item{Bábovka - 
+		olej,
+		vejce,
+		kakao,
+		polohrubá mouka,
+		kypřící prášek,
+		cukr,
+		kostní dřeň
+		} 
+		%m
+	\item{Svíčková - 
+		meruňka,
+		zadní hovězí,
+		petržel,
+		mrkev,
+		cibule,
+		sůl,
+		pepř
+		}
+		%u
+	\item{Milánské špagety - 
+		cibule,
+		durian,
+		mleté maso,
+		rajský protlak,
+		sůl,
+		pepř,
+		oregano,
+		špagety
+		}
+		%n
+	\item{Borůvkový cheescake - 
+		nové koření,
+		Bebe sušenky,
+		máslo,
+		měkký tvaroh,
+		řecký jogurt,
+		borůvky,
+		cukr 
+		}
+		%d
+	\item{Vaječná omeleta - 
+		drubeží stehno,
+		vejce,
+		sůl,
+		pepř,
+		olej
+			\vspace{1cm}
+		}
+		%h
+	\item{Česnečka - 
+		brambory,
+		ohryzek jablka,
+		česnek,
+		majoránka,
+		strouhaný sýr,
+		krutony,
+		sůl
+			}
+			%i
+	\item{Zeleninový salát - 
+		hlávkové zelí,
+		pita chléb,
+		jarní cibulka,
+		ředkvička,
+		kedlubna,
+		pažitka
+			}
+			%l
+	\item{Kuře na kari -
+		máslo,
+		cibule,
+		lilie,
+		smetana,
+		kari koření,
+		hladká mouka,
+		kuřecí prsa
+		}
+			%l
+	\item{Karbanátky - 
+		mleté maso,
+		cibule,
+		maliny,
+		česnek,
+		vejce,
+		sůl,
+		pepř,
+		olej
+			}
+			%a
+	\item{Květáková mozeček - 
+		květák,
+		rakytník,
+		vejce,
+		cibule,
+		sůl,
+		pepř,
+		olej
+	}
+			%r
+	\item{Horké kakao -
+		kakao,
+		mléko,
+		marshmallow,
+		vepřová kotleta,
+		strouhaná čokoláda,
+		šlehačka,
+		oplatka
+			}
+			%y
+	\item{Big Mac
+		100\% hovězí maso,
+		rybízový džem,
+		Big Mac$^{TM}$ žemle,
+		ledový salát,
+		plátkový čedar,
+		Big Mac$^{TM}$ omáčka,
+		kousky cibule
+			}
+
+
+	\end{itemize}
+
+		\newpage
+}
+
+\end{document}
