@@ -15,10 +15,8 @@ def arabToRom(number):
 
         while div:
             z += sym[i]
-            print(sym[i], end = "")
             div -= 1
         i -= 1
-    print()
     return z
 
 def romToArab(rom):
@@ -33,6 +31,7 @@ def code(s):
             num = ord(x) - 96 
             print(num, x)
             code += arabToRom(ord(x) - 96)
+            code += ' '
         else:
             code += ' '
 
