@@ -1,0 +1,35 @@
+\documentclass{article}
+\usepackage{setspace}
+
+\makeatletter
+\newcount\my@repeat@count
+\newcommand{\myrepeat}[2]{%
+  \begingroup
+  \my@repeat@count=\z@
+  \@whilenum\my@repeat@count<#1\do{#2\advance\my@repeat@count\@ne}%
+  \endgroup
+}
+\makeatother
+
+\begin{document}
+
+\myrepeat{4}{
+	\begin{itemize}
+
+		\item Chodí-li Kateřina po ledě, chodí po blátě Štěpán.
+
+		\item I kdybys osla vedl do Paříže, tak z něho nebude kůň.
+
+		\item Mluviti stříbro, mlčeti zlato,
+
+		\item Na Filipa a jakuba, koníček trávy naškubá.
+
+		\item Nekupuj zajíce v pytli.
+
+		\item Odříkaného chleba, největší krajíc.
+
+	\end{itemize}
+	\vspace{2cm}
+}
+
+\end{document}
