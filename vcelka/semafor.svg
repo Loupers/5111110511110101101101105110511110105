@@ -28,14 +28,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.77771465"
-     inkscape:cx="334.31285"
-     inkscape:cy="289.3092"
+     inkscape:cx="596.61985"
+     inkscape:cy="186.4437"
      inkscape:window-width="1919"
      inkscape:window-height="2135"
-     inkscape:window-x="0"
+     inkscape:window-x="1920"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-5">
+     inkscape:current-layer="layer1">
     <inkscape:grid
        type="xygrid"
        id="grid9" />
@@ -1195,7 +1195,7 @@
        rx="3.7868752"
        ry="8.23944" />
     <ellipse
-       style="fill:#d4ff2a;stroke:none;stroke-width:1.40784;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ff8080;stroke:none;stroke-width:1.40784;stroke-miterlimit:4;stroke-dasharray:none"
        id="path9238-5-0-9-01-0-1"
        cx="132.30272"
        cy="67.944801"
@@ -1203,7 +1203,7 @@
        ry="8.3540306"
        transform="matrix(0.78251877,0.62262699,-0.64803446,0.76161102,0,0)" />
     <ellipse
-       style="fill:#ff8080;stroke:none;stroke-width:1.40784;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#d4ff2a;stroke:none;stroke-width:1.40784;stroke-miterlimit:4;stroke-dasharray:none"
        id="path9238-35-9-3-7-7-7"
        cx="-56.67485"
        cy="131.58966"
@@ -2723,7 +2723,7 @@
        id="text39527"><tspan
          sodipodi:role="line"
          id="tspan39525"
-         style="stroke-width:0.264583"></tspan></text>
+         style="stroke-width:0.264583" /></text>
     <text
        xml:space="preserve"
        style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;stroke-width:0.264583"
