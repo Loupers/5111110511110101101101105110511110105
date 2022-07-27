@@ -24,14 +24,14 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="1.368274"
-     inkscape:cx="681.51556"
-     inkscape:cy="528.40295"
+     inkscape:cx="681.51554"
+     inkscape:cy="528.40294"
      inkscape:window-width="3840"
      inkscape:window-height="2135"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1">
+     inkscape:current-layer="g33966-3">
     <inkscape:grid
        type="xygrid"
        id="grid9" />
@@ -926,7 +926,7 @@
     </g>
     <g
        id="g33966-3"
-       transform="translate(-0.83333206,140.28082)">
+       transform="translate(2.4213932e-4,214.36416)">
       <rect
          style="fill:#f2f2f2;stroke-width:0.264583"
          id="rect33-90"
@@ -1004,7 +1004,7 @@
            id="tspan9082-56"
            style="fill:#ffffff;stroke-width:0.264583"
            x="69.983299"
-           y="25.857168">0</tspan></text>
+           y="25.857168">3</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#f9f9f9;stroke-width:0.264583"
@@ -1015,7 +1015,7 @@
            id="tspan19338-15"
            style="fill:#f9f9f9;stroke-width:0.264583"
            x="85.167816"
-           y="25.599319">4</tspan></text>
+           y="25.599319">1</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.264583"
@@ -1026,7 +1026,7 @@
            id="tspan25208-8"
            style="fill:#ffffff;stroke-width:0.264583"
            x="104.01103"
-           y="25.445112">1</tspan></text>
+           y="25.445112">3</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#ffffff;stroke-width:0.264583"
@@ -1048,11 +1048,11 @@
            id="tspan28912-3"
            style="fill:#ffffff;stroke-width:0.264583"
            x="138.37091"
-           y="25.709869">0</tspan></text>
+           y="25.709869">3</tspan></text>
     </g>
     <g
        id="g33966-04"
-       transform="translate(-0.83333206,158.80166)">
+       transform="translate(2.4213932e-4,140.28082)">
       <rect
          style="fill:#f2f2f2;stroke-width:0.264583"
          id="rect33-44"
@@ -1178,7 +1178,7 @@
     </g>
     <g
        id="g33966-8"
-       transform="translate(-0.83333206,177.32249)">
+       transform="translate(-1.0172526e-5,158.75)">
       <rect
          style="fill:#f2f2f2;stroke-width:0.264583"
          id="rect33-31"
@@ -1304,7 +1304,7 @@
     </g>
     <g
        id="g33966-5"
-       transform="translate(-0.83333206,198.48916)">
+       transform="translate(-1.0172526e-5,177.27083)">
       <rect
          style="fill:#f2f2f2;stroke-width:0.264583"
          id="rect33-40"
@@ -1430,7 +1430,7 @@
     </g>
     <g
        id="g33966-51"
-       transform="translate(-0.83333206,217.00999)">
+       transform="translate(2.4213932e-4,195.84332)">
       <rect
          style="fill:#f2f2f2;stroke-width:0.264583"
          id="rect33-10"
@@ -1556,7 +1556,7 @@
     </g>
     <g
        id="g33966-34"
-       transform="translate(-0.83333206,235.53082)">
+       transform="translate(-1.0172526e-5,232.83333)">
       <rect
          style="fill:#f2f2f2;stroke-width:0.264583"
          id="rect33-0"
