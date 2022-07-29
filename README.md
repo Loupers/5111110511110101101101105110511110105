@@ -1,6 +1,6 @@
 # Harta šifrovačka
 
-# Myšlenka
+## Myšlenka
 
 + týmy dostanou šifrovací pomůcky a mapu okolí a 1. šifru
 + na mapě budou označeny stanoviště s pomocí N čísel (N > |velikost abecedy|), N idealne prvocislo
@@ -60,43 +60,35 @@ Výsledek:
 
 - [x] mam skript, co to umi generovat
 
+---
 ## Recepty - 1 divný odebrat
 
 už jsem to dělal a podělal, pokus č.2 [Honza]
 
-Výsledek: Edmund Hillary
+- [x] Edmund Hillary - 22
 
-Next: 22
-
-- [x]
-
+---
 ## strip fold
 
 [nějaké puzzle](http://erikdemaine.org/fonts/), nvm které vybrat
 
 [strip fold](http://erikdemaine.org/fonts/strip/)
 
-Výsledek: vceli les 
- 
-Next: 25
+- [x] VCELI LES - 25
 
-- [x]
-
+---
 ## Dlouhááááá šifra
 
-Text, ve kterém se vyskytují slova krátký a dlouhý (morzeovka)
+Text, ve kterém se vyskytují slova krátký a dlouhý (morseovka)
 
 dlouhý - 
 krátký .
 
 Písmena oddělit odstavci
 
-Výsledek: prehrada
+- [x] PREHRADA - 9
 
-Next: 9
-
-- [x]
-
+---
 ## Včelka
 
 Včelka letí po květech. Pod každým květem je číslo, udávající vzdálenost, kterou včelka
@@ -110,32 +102,34 @@ Potřeba nějakého pravítka/něco co umí měřit vzdálenost
 
 Výsledek: pod volarnou (Pod Volárnou, ta obora, co je u harty)
 
-Next: 29
+- [x] POD VOLARNOU - 29
 
-- [x]
-
+---
 ## Lego
 
+Docela dost jednoduchá,
 https://matfyzak.cz/wp/wp-content/uploads/2021/05/stavbyT.png
+vyjde UCITEL
 
-Docela dost jednoduchá
+- [x] LETEC JI ULETEL - 15
 
-Výsledek: LETEC JI ULETEL
-
-Next: 15
-
-- [x]
-
-## Porekadla
+---
+## Pořekadla
 
 První písmeno pořekadla je vždy nějakým posledním písmenem jiného. (2 zůstanou volná)
 
-Výsledek: mocnina
+- [x] MOCNINA - 7
 
-Next: 7
+---
+## Zip
 
-- [x]
+Po správném zazipování vozidel vyjde šifra z pořadí průjezdu písmen
 
+- [x] VODNI NADRZ SLEZSKA HARTA - 20
+
+
+
+---
 # Šifrovací pomůcky
 
 ## potřeba
