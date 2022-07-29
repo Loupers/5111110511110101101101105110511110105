@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="zip.svg">
+   sodipodi:docname="zip.svg"
+   inkscape:export-filename="/home/vojtechzak/documents/harta-sifry/zip/zip.png"
+   inkscape:export-xdpi="160"
+   inkscape:export-ydpi="160">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -26,8 +29,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="608.80971"
-     inkscape:cy="570.37973"
+     inkscape:cx="249.19541"
+     inkscape:cy="562.29851"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,6 +58,13 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect1187"
+       width="273.68399"
+       height="337.82867"
+       x="-42.763123"
+       y="-24.792509" />
     <g
        id="g5660-9"
        transform="matrix(0.6462585,0,0,0.6462585,6.122449,-104.95584)">
