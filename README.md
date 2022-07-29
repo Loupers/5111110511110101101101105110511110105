@@ -61,7 +61,9 @@ Výsledek:
 - [x] mam skript, co to umi generovat
 
 ---
-## Recepty - 1 divný odebrat
+## Recepty
+
+Každý recept obsahuje jednu nehodící se ingredienci, jejíž pořadí v receptu určuje pořadí hledaného písmene v oné ingredienci.
 
 už jsem to dělal a podělal, pokus č.2 [Honza]
 
