@@ -70,7 +70,7 @@ už jsem to dělal a podělal, pokus č.2 [Honza]
 - [x] Edmund Hillary - 22
 
 ---
-## strip fold
+## Strip Fold
 
 [nějaké puzzle](http://erikdemaine.org/fonts/), nvm které vybrat
 
@@ -129,6 +129,17 @@ Po správném zazipování vozidel vyjde šifra z pořadí průjezdu písmen
 
 - [x] VODNI NADRZ SLEZSKA HARTA - 20
 
+
+## Keyboard
+
+Spojovani pismen na klavesnici, od kolecka po sipku
+
+- [x]
+mili ucastnici
+blizite se ke konci dnesni sifrovacky
+posledni stanoviste je na toice vedoucich
+budte tam cely tym najednou
+vasi vedouci
 
 
 ---
